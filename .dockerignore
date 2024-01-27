@@ -1,0 +1,10 @@
+.dockerignore
+.git
+.gitignore
+.vscode
+Dockerfile
+README
+combine.pl
+test.pl
+*.o
+dnsseed*
